@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@drawable/ic_movie_black"
+        android:title="Movies" />
+
+    <item
+        android:id="@+id/navigation_tv_show"
+        android:icon="@drawable/ic_tv_show_black"
+        android:title="TV Show" />
+
+    <item
+        android:id="@+id/navigation_person"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile" />
+
+</menu>
